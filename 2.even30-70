@@ -1,2 +1,0 @@
-even = [x for x in range(30,70) if x%2 == 0]
-print(even)

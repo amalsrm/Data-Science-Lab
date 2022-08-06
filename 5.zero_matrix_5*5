@@ -1,4 +1,0 @@
-import numpy as np
-v=np.eye(5,dtype="int64")
-np.fill_diagonal(v,[1,2,3,4,5])
-print(v)

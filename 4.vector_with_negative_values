@@ -1,0 +1,4 @@
+import numpy as np
+v=np.arange(21)
+v[(v>=9) & (v<=15)]*=-1
+print(v)
